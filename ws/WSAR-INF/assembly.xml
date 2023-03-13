@@ -19,7 +19,7 @@
                 <cc:log id="Log">
                     <cc:log-message>
                         <cc:message-content/>
-                        <cc:text>Hello Workday!</cc:text>
+                        <cc:text>Hello Workday! This is a new message!</cc:text>
                     </cc:log-message>
                 </cc:log>
             </cc:steps>
